@@ -3,7 +3,7 @@ CGNN
 Implementation of CGNN in our paper: Enhancing Multi-view Graph Neural Network with Cross-view Confluent Message Passing, ACM MM 2024. 
 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3664647.3681585)
 
-[framework](./CGNN.png)
+![framework](./CGNN.png)
 
 ## Requirement
 
